@@ -1,1 +1,5 @@
 Nový soubor
+
+červená
+modrá
+zelená
