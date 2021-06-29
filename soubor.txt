@@ -3,3 +3,5 @@ Nový soubor
 červená
 modrá
 zelená
+další barvu
+ještě jedna
