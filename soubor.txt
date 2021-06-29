@@ -5,3 +5,6 @@ modrá
 zelená
 další barvu
 ještě jedna
+
+oranžová
+růžová
